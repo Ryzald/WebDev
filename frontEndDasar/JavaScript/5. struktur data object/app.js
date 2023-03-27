@@ -55,7 +55,7 @@ const shoppingCart = [
 {
   product :"Angular.js",
   price : 15000,
-  quantity : 6
+  quantity : 7
 }
 ];
 console.log(shoppingCart);
