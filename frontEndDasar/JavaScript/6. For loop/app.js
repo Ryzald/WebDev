@@ -23,3 +23,6 @@ for (let a = 0; a < str.length; a++) {
     console.log("in : ", str[b]);
   }
 }
+
+//4. Mendapatkan Data Dari Nested Array Dengan Nested Loop
+
