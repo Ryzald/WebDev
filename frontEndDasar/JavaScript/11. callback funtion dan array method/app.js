@@ -57,3 +57,10 @@ const animeList = animes.map(function (anime) {
   return anime.title.toUpperCase();
 });
 // output ['ON PIECE', 'NARUTO', 'DRAGON BALL', 'DORAEMON']
+
+// arrow function
+const perpangkatan = (x) => {
+  return x * x;
+};
+perpangkatan(5);
+//output = 25
